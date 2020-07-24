@@ -63,3 +63,41 @@
     padding-top:    80px;
     padding-bottom:    50px;
 }
+.hidden-content {
+    display: none;
+}
+
+#mcontact {
+    height: 60%;
+    background-image: url(../assets/backgrounds/c_image.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    color: white;
+    margin-top: 70px;
+}
+
+.mForm {
+    padding-top: 70px;
+}
+
+form#contact-form::-webkit-input-placeholder {
+   
+    color: white;
+}
+
+form#contact-form :-ms-input-placeholder {
+
+    color: white;
+}
+
+form#contact-form ::placeholder {
+    color: white;
+}
+
+.isInput,
+.isInput:focus {
+    background-color: transparent;
+    color: #fff
+}
