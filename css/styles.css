@@ -34,3 +34,28 @@
 #mouse_click {
     margin-top: 250px;
 }
+#about_us,
+#what_we_do {
+    margin-top: 60px;
+}
+
+#services {
+    height: 50%;
+    background-image: url(../assets/backgrounds/s_image.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    color: white;
+
+}
+
+#mservices,
+#we_do {
+    margin-top: 0px;
+}
+
+#themessage {
+    padding-top:    80px;
+    padding-bottom:    50px;
+}
