@@ -98,3 +98,40 @@ form#contact-form ::placeholder {
     background-color: transparent;
     color: #fff
 }
+
+
+.isInput,
+.isInput:focus {
+    background-color: transparent;
+    color: #fff
+}
+
+
+.portfolio {
+    max-width: 80%;
+
+}
+
+#social {
+    padding-top: 40px;
+}
+
+#social-padding img {
+    padding: 5px;
+}
+
+.work-heading {
+    display: none;
+    background-color: white;
+    opacity: 0.8;
+    z-index: 1;
+    font-size: 30px;
+    height: 100%;
+    width: 100%;
+    padding-top: 30%;
+    padding-right: 15%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
