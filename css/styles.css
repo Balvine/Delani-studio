@@ -1,0 +1,15 @@
+.container-fluid{
+     position: relative;
+     text-align: center;
+     font-family: 'Source Sans Pro', serif;
+     font-size: 22px;
+}
+.image{
+     height: 100%;
+    background-image: url(../assets/backgrounds/h_img.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+
+}
