@@ -14,3 +14,23 @@
     position: relative;
 
 }
+.no-padding,
+.work-heading {
+    padding-left: 0;
+    padding-right: 0;
+}
+
+#mTitle {
+    /* margin-top: 50%; */
+    padding-top: 50px
+}
+
+#mlogo {
+    margin-top: 14%;
+    padding-bottom: 110px;
+
+}
+
+#mouse_click {
+    margin-top: 250px;
+}
