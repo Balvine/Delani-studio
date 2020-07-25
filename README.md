@@ -1,5 +1,5 @@
 ## DELANI STUDIO
-This is Repository which entails all my code for my akan name generator  aplication.
+This is Repository which entails all my code for the DELANI STUDIO
 ### Author Balvine Mbari
 ### Description
 This is is a project where we create an imaginary studio where wu use the jquery library and other javascript  functions where the images have the ability to toggle which they can hide or show by being clicked.
