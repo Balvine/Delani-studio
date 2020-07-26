@@ -136,6 +136,34 @@ form#contact-form ::placeholder {
     transform: translate(-50%, -50%);
 }
 
+@media only screen and (max-width: 600px) {
+    #mlogo {
+        margin-top: 30%;
+        padding-bottom: 110px;
+
+    }
+
+    #mouse_click {
+        margin-top: 50px;
+    }
+
+    #mTitle {
+        padding-top: 50px;
+        font-size: 30px;
+
+    }
+
+    #welcome {
+        font-size: 30px;
+    }
+
+    #message {
+        font-size: 14px;
+    }
+}
+
+
 @media only screen and (min-width: 600px) {}
+
 
 @media only screen and (min-width: 768px) {}
